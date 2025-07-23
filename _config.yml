@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "RJ"
 title_separator          : "-"
-name                     : &name "RJ. Joyce"
+name                     : &name "RJ Joyce"
 description              : &description "Teaching professor at the University of Maryland, Baltimore County. Researching applications of machine learning and data science to the field of malware analysis."
 url                      : https://rjjoyce.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ repository               : "rjjoyce/rjjoyce.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Robert J. Joyce"
+  name             : "RJ Joyce"
   pronouns         : # example: "she/her"  
-  bio              : "Teaching professor at UMBC. Researching applications of machine learning and data science to the field of malware analysis."
+  bio              : "Teaching professor at UMBC. Malware Researcher."
   location         : #
   employer         : "UMBC"
   uri              : # URL
