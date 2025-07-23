@@ -1,4 +1,6 @@
+## About Me
 
+I recieved my PhD in Computer Science at UMBC in 2024, and I'm currently a teaching professor there. My research is at the intersection of malware analysis, data science, and machine learning. I formerly worked in cybersecurity roles at Booz Allen Hamilton, Cisco Systems, and the Shadowserver Foundation.
 
 ## First‑Author Research
 
