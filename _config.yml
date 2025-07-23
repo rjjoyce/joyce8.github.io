@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "RJ Joyce"
 title_separator          : ""
 name                     : &name "RJ Joyce"
 description              : &description "Teaching professor at the University of Maryland, Baltimore County. Researching applications of machine learning and data science to the field of malware analysis."
