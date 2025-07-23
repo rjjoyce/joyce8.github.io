@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr."
+title                    : "RJ"
 title_separator          : "-"
-name                     : &name "Robert J. Joyce"
+name                     : &name "RJ. Joyce"
 description              : &description "Teaching professor at the University of Maryland, Baltimore County. Researching applications of machine learning and data science to the field of malware analysis."
 url                      : https://rjjoyce.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Robert J. Joyce"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Teaching professor at UMBC. Researching applications of machine learning and data science to the field of malware analysis."
   location         : #
-  employer         : "University of Maryland, Baltimore County"
+  employer         : "UMBC"
   uri              : # URL
   email            : "joyce8@umbc.edu" 
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -217,16 +217,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
