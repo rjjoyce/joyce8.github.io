@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Robert J. Joyce"
 description              : &description "Teaching professor at the University of Maryland, Baltimore County. Researching applications of machine learning and data science to the field of malware analysis."
 url                      : https://rjjoyce.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "rjjoyce/rjjoyce.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
